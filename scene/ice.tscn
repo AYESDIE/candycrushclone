@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://scripts/ice.gd" type="Script" id=1]
+[ext_resource path="res://assets/Obstacles/Ice.png" type="Texture" id=2]
+
+[node name="ice" type="Node2D"]
+
+script = ExtResource( 1 )
+health = 1
+
+[node name="Sprite" type="Sprite" parent="." index="0"]
+
+scale = Vector2( 0.5, 0.5 )
+texture = ExtResource( 2 )
+_sections_unfolded = [ "Transform" ]
+
+
