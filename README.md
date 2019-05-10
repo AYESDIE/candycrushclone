@@ -1,4 +1,4 @@
 # candycrushclone
 candy crush clone
 
-![](http://prntscr.com/nmvw8z)
+![](https://cdn.discordapp.com/attachments/513568128635109379/576438649802194955/download.png)
